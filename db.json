@@ -1,6 +1,6 @@
 {
   "data": [
-    { "id": 1, "profile_id": 2 },
+    { "id": 1, "name": "Joe" },
     { "id": 2, "name": "Max" },
     { "id": 3, "name": "Nancy" }
   ],
@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "2": {
-    "id": 1,
+  "profile": {
+    "name": "typicode"
   }
 }
